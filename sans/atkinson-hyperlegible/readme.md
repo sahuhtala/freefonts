@@ -1,3 +1,4 @@
+OFL-1.1 license 
 
 https://brailleinstitute.org/freefont
 
